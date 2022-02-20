@@ -1,0 +1,2 @@
+Start-Transcript -Path "C:\transcript.txt" -NoClobber
+Stop-Transcript
