@@ -1,0 +1,4 @@
+Set-ExecutionPolicy unrestricted
+Install-Module -Name ExchangeOnlineManagement
+Import-module exchangeonlinemanagement
+Connect-Exchangeonline
