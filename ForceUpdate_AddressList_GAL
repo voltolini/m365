@@ -1,0 +1,3 @@
+Get-addresslist
+
+Set-AddressList -Identity “All users”
