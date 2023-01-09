@@ -1,0 +1,6 @@
+## Force Sync Local AD to AAD ##
+
+Enter-PSSession <AD Hostname>
+Start-ADSyncSyncCycle -PolicyType Initial (Full sync)
+Start-ADSyncSyncCycle -PolicyType Delta (Quick sync)
+Exit-PSSession
