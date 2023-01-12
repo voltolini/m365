@@ -1,0 +1,7 @@
+## No Admin Console - O365 ##
+Entrar em: https://compliance.microsoft.com/
+no menu: Pesquisa de conteúdo e criar uma nova pesquisa;
+
+Usar a condição de pesquisa abaixo:
+## Condição para Pesquisa ##
+itemclass:IPM.SkypeTeams.Message
