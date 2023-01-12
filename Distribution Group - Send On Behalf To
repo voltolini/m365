@@ -1,0 +1,2 @@
+## Grant Send on Behalf To on Distribution Group ##
+Set-DistributionGroup "group.name@xxxxx.com.br" -GrantSendOnBehalfTo "user.name"
