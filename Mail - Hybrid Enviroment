@@ -1,0 +1,2 @@
+## [Account Link-in] - On-premises to Cloud ##
+ Enable-RemoteMailbox "user@xxx.xxx.xx" -RemoteRoutingAddress "user@xxxx.mail.onmicrosoft.com"
